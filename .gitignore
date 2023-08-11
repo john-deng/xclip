@@ -22,3 +22,6 @@ borked
 
 # temporary files
 *.swp
+build/
+.idea/
+cmake-build-debug/
